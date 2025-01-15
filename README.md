@@ -4,11 +4,11 @@
 
 
 ### About Me
--🔧 Tech Stack: MERN, Redux, Tailwind CSS, REST APIs, JWT, Supabase
--🛠️ Tools I Use: Git, VS Code, Postman, Vite, Mongoose
--🌱 Learning: Advanced React, Next.js, GraphQL
--💡 Interests: Open-source contributions, UI/UX design, and exploring new web technologies
--🧰 Projects: E-commerce sites, real-time apps, and personalized dashboards
+-🔧 Tech Stack: MERN, Redux, Tailwind CSS, REST APIs, JWT.
+-🛠️ Tools I Use: Git, VS Code, Postman, Vite, Mongoose.
+-🌱 Learning: Advanced React, Next.js, GraphQL.
+-💡 Interests: Open-source contributions, UI/UX design, and exploring new web technologies.
+-🧰 Projects: E-commerce sites, real-time apps, and personalized dashboards.
 -🚀 Mission: Turning ideas into impactful solutions
 Let's collaborate and create something amazing! 🤝
 

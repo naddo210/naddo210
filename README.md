@@ -1,4 +1,4 @@
-[<h2 align="left">Hi 👋! My name is Nadeem Salmani</h2>
+<h2 align="left">Hi 👋! My name is Nadeem Salmani</h2>
 <h3 align="center"> I'm a full-stack developer specializing in MongoDB, Express.js, React, and Node.js (MERN). I enjoy building scalable web applications and crafting intuitive user interfaces.</h3>
 
 
@@ -83,7 +83,8 @@ Let's collaborate and create something amazing! 🤝
 ### stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naddo210&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+
+  <img src="https://github-readme-stats.vercel.app/api?username=naddo210&show_icons=true&theme=radical" height="150" alt="languages graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=naddo210&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
@@ -94,4 +95,3 @@ Let's collaborate and create something amazing! 🤝
 <img src="https://raw.githubusercontent.com/naddo210
 /naddo210
 /output/snake.svg" alt="Snake animation" />
-](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)

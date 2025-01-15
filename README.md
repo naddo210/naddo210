@@ -1,6 +1,8 @@
 <h2 align="left">Hi 👋! My name is Nadeem Salmani</h2>
 <h3 align="center"> I'm a full-stack developer specializing in MongoDB, Express.js, React, and Node.js (MERN). I enjoy building scalable web applications and crafting intuitive user interfaces.</h3>
 
+
+
 ### About Me
 - 🔧 Tech Stack: MERN, Redux, Tailwind CSS, REST APIs, JWT.
 - 🛠️ Tools I Use: Git, VS Code, Postman, Vite, Mongoose.
@@ -10,21 +12,24 @@
 - 🚀 Mission: Turning ideas into impactful solutions
 Let's collaborate and create something amazing! 🤝
 
----
 
-<img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWVlZGUwb3liZ2hoZTM0bHNpdXFqaWdzbW5uZjZ0cmhmOG1jdnUzdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1BilA" alt="Coding animation">
+
+---
+<img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWVlZGUwb3liZ2hoZTM0bHNpdXFqaWdzbW5uZjZ0cmhmOG1jdnUzdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
 
 ### Skills
 
-- **Programming Languages:** Java (Competitive Programming), Python, JavaScript, C, C++, C#.
-- **Frameworks & Libraries:** React, Node.js, Express, Gsap, ASP.NET.
+- **Programming Languages:** Java (Competitive Programming), Python, JavaScript, C, C++,c#.
+- **Frameworks & Libraries:** React, Node.js, Express,Gsap,ASP.NET.
 - **Databases:** MySQL, MongoDB
 - **Tools & Platforms:** Git, GitHub
 
-### Languages I worked with
+
+### Languages i worked with
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+ 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="12" />
@@ -35,12 +40,12 @@ Let's collaborate and create something amazing! 🤝
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
+    <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo" />
+    <img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
 </div>
 
 ---
@@ -63,9 +68,11 @@ Let's collaborate and create something amazing! 🤝
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+
 ### Connect With Me
 
 <div align="left">
+ 
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
@@ -73,13 +80,18 @@ Let's collaborate and create something amazing! 🤝
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
 
-### Stats
+### stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naddo210&show_icons=true&theme=dracula" height="150" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=naddo210&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="top languages" />
+
+  <img src="https://github-readme-stats.vercel.app/api?username=naddo210&show_icons=true&theme=radical" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=naddo210&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
+
+<!-- ###
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/naddo210/naddo210/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/naddo210
+/naddo210
+/output/snake.svg" alt="Snake animation" /> -->

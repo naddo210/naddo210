@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Nadeem Salmani</h2>
+[<h2 align="left">Hi 👋! My name is Nadeem Salmani</h2>
 <h3 align="center"> I'm a full-stack developer specializing in MongoDB, Express.js, React, and Node.js (MERN). I enjoy building scalable web applications and crafting intuitive user interfaces.</h3>
 
 
@@ -94,3 +94,4 @@ Let's collaborate and create something amazing! 🤝
 <img src="https://raw.githubusercontent.com/naddo210
 /naddo210
 /output/snake.svg" alt="Snake animation" />
+](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
